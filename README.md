@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🚀, I'm Hamza</h1>
 <br>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate developer from Turkey</h3>
 <br>
 <hr>
 <img align="right" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
